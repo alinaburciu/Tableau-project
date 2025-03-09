@@ -1,2 +1,2 @@
-![Thumbnail](dashboard/dashboard.png)
+![Thumbnail](dashboard/Dashboard.png)
 This is an interactive dashboard about job salaries.
